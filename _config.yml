@@ -1,0 +1,32 @@
+title: Blahg
+author: A B
+email: sbus+osm@simplelogin.co
+description: Some of the things that's on my mind.
+keywords: [thoughts, blog]
+baseurl: ""
+url: "https://blahg.github.io"
+
+comments: true
+
+paginate: 25
+paginate_path: "/page:num/"
+
+permalink: /:year/:month/:day/:title
+
+google_analytics: UA-00000000-0
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
