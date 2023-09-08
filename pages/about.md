@@ -4,8 +4,8 @@ title: About Me
 permalink: /about
 ---
 
-Just a body moving through time and space.
+This is a blog for me to write about whatever I think, love, or believe in. Don't expect it to be intellectual.
 
-## Contact Me
+## Contact Me:
 
 E-Mail: [{{ site.email }}](mailto:{{ site.email }})
