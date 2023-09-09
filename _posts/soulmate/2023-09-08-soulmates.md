@@ -7,9 +7,10 @@ tags: [Thoughts]
 mermaid: true
 ---
 What do I think about soulmates?
-While thinking about "Soulmates", I generally percieve it to be somthing related to the romantic aspects of life. Maybe it's the movies, songs, and the societal narrative of the word that has led me to perciece it in this way. But I do connect with some peoples even when I'm not romantically attracted to them, and I think our souls help us to do that. 
+While thinking about "Soulmates", I generally percieve it to be somthing related to the romantic aspects of life. Maybe it's the movies, songs, and the societal narrative of the word that has led me to percieve it in this way. But I do connect with some peoples even when I'm not romantically attracted to them at all, and I think our souls help us to do that. 
 <br/>
-We all know that `The Law of Conservation of Energy states that energy can neither be created nor destroyed - only converted from one form of energy to another`.  And  if our souls exist, it has to be in the form of an energy. Our mythology also says that our souls leave the body, so the same energy or our soul gets transmitted from one body to another. However, the human population is constantly increasing, and energy can not be created, so, it would be easier to assume that our souls are splitting and the energy from every person is being transferred to many persons instead going to just one person.
+We all know that `The Law of Conservation of Energy states that energy can neither be created nor destroyed - only converted from one form of energy to another`.  And  if our souls exist, they have to exist in the form of an energy. Our mythology also says that our souls leave the body
+ when we die,  souls change their host body and finds a new host. So, the same energy or our soul gets transmitted from one body to another. However, the human population is constantly increasing, and energy can not be created, so, it would be easier to assume that our souls are splitting and the energy from every person is being transferred to many persons instead going to just one person.
 <br/>
 If you are still reading, get ready for some conspiracy theories. If our souls are splitting, as per the theory presented above, there must be some consequences to it.
 <br/>
