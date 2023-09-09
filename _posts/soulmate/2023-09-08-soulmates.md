@@ -29,7 +29,8 @@ graph LR
 </div>
 <br/>So, two pairs might be formed. Again, A1 or A2 can connect with both B1, and B2, as souolmates and vice-versa.
 <br/>
-- But, it should also be considered that a soul might not divide at all. Or, it might divide into more than two pieces. It gets messy if we think further about it. I won't write about that, you can think about it.
+
+But, it should also be considered that a soul might not divide at all. Or, it might divide into more than two pieces. It gets messy if we think further about it. I won't write about that, you can think about it.
 <br/>
 To conclude, I don't know what to write. I do believe in soulmates. But I also ignored the idea of conversion of energy from one form to another, that might lead to other thoeries as well. 
 <br/>We all might just be vibrating strings of energy levels, so at our core we all might just some souls that are copy of a copy of a copy. 
