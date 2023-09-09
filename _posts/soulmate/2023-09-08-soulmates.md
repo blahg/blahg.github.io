@@ -22,10 +22,10 @@ graph LR
     A-->|Split|A2;
     B-->|Split|B1;
     B-->|Split|B2;
-    A1<-->B1;
-    A1<-->B2;
-    A2<-->B1;
-    A2<-->B2;
+    A1--B1;
+    A1--B2;
+    A2--B1;
+    A2--B2;
 </div>
 <br/>So, two pairs might be formed. Again, A1 or A2 can connect with both B1, and B2, as souolmates and vice-versa.
 <br/>
