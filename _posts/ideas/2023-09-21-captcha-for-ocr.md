@@ -1,1 +1,15 @@
----layout: posttitle: CAPTCHAs for Assamese OCRdate: 2023-21-09categories: [Ideas]tags: [Thoughts, Ideas]---The CAPTCHAs are well known to us all. It stands for "Completely Automated Public Turing Test to tell Computers and Humans Apart".I'd share my idea in a simplified and generalized way. As OCR is based on images containg text and conversion of them to text format, I am considering only the Text CAPTCHAs here.<br/>Text CAPTCHAs work like this: the computer knows a part of the problem to be solved and the rest is unknown to it. When we enter the missing part of the text the computer knows the complete puzzle and it allows us to enter the webpage/site as it knows that only a human can solve the CAPTCHAs, not the Computers. <br/>(So, the computers gets trained on every word we enter to solve the CAPTCHAs and as a consequence, the CAPTCHAs are getting harder and harder nowadays because the easy and common eords/letters/numbers are known to the computers already. Hence, we see reCAPTCHAs intsead of CAPTCHAs on many websites which the are improved versions of the CAPTCHAs, mostly relying on images.)<br/><br/>Here is what I suggest: The websites designed specially for the assamese people might contain CAPTCHAs based on Assamese words, leters and phrases. By doing so, we can train the OCR engines/models also. It would be like crowdsourcing. In know it would be hard to implement due to many reasons but I hope someday it happens. That's it.<br/><br/>P.S: When I last checked in 2020, there was a GitHub repo by IITG for the purpose of Assamese OCR but I don't know whether it is currently being maintained or not. I'm too lazy to look it up now.
+---
+layout: post
+title: CAPTCHAs for Assamese OCR
+date: 2023-21-09
+categories: [Random]
+tags: [Ideas]
+---
+The CAPTCHAs are well known to us all. It stands for "Completely Automated Public Turing Test to tell Computers and Humans Apart".
+I'd share my idea in a simplified and generalized way. As OCR is based on images containg text and conversion of them to text format, I am considering only the Text CAPTCHAs here.<br/>
+
+Text CAPTCHAs work like this: the computer knows a part of the problem to be solved and the rest is unknown to it. When we enter the missing part of the text the computer knows the complete puzzle and it allows us to enter the webpage/site as it knows that only a human can solve the CAPTCHAs, not the Computers. 
+<br/>
+(So, the computers gets trained on every word we enter to solve the CAPTCHAs and as a consequence, the CAPTCHAs are getting harder and harder nowadays because the easy and common eords/letters/numbers are known to the computers already. Hence, we see reCAPTCHAs intsead of CAPTCHAs on many websites which the are improved versions of the CAPTCHAs, mostly relying on images.)
+<br/><br/>Here is what I suggest: The websites designed specially for the assamese people might contain CAPTCHAs based on Assamese words, leters and phrases. By doing so, we can train the OCR engines/models also. It would be like crowdsourcing. In know it would be hard to implement due to many reasons but I hope someday it happens. That's it.<br/><br/>
+P.S: When I last checked in 2020, there was a GitHub repo by IITG for the purpose of Assamese OCR but I don't know whether it is currently being maintained or not. I'm too lazy to look it up now.
